@@ -1,0 +1,1159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VocabTrainer Project\\VocabTrainer.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\authentication\\currentuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:authentication\\currentuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\quiz\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\quiz\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\quiz\\nextquizitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\quiz\\nextquizitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\languages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:languages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\admin\\adminlanguagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\admin\\adminlanguagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\entities\\quizitemresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:entities\\quizitemresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\words\\wordsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\words\\wordsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\words\\wordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\words\\wordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\words\\iwordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\words\\iwordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\stats\\statssummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\stats\\statssummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\stats\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\stats\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\entities\\userlanguagestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:entities\\userlanguagestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\stats\\istatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\stats\\istatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\database\\entitiesconfigurations\\userlanguagestatsconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:database\\entitiesconfigurations\\userlanguagestatsconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\admin\\admincodesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\admin\\admincodesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\words\\deleterecordingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\words\\deleterecordingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\tts\\gtranslateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\tts\\gtranslateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\languages\\languagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\languages\\languagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\bootstrapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\bootstrapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\quiz\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\quiz\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\admin\\adminlanguagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\admin\\adminlanguagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\admin\\admincodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\admin\\admincodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\admin\\iadminlanguagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\admin\\iadminlanguagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\admin\\iadmincodesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\admin\\iadmincodesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\languages\\redeemlanguagecoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\languages\\redeemlanguagecoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\languages\\ilanguagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\languages\\ilanguagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\languages\\languagecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\languages\\languagecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\languages\\ilanguagecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\languages\\ilanguagecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\admin\\iadminusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\admin\\iadminusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\admin\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\admin\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\deletelanguagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\deletelanguagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\errors\\languageerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:errors\\languageerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\vocabtrainer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:vocabtrainer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\vocabtrainer.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:vocabtrainer.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\admin\\adminusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\admin\\adminusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\adminupdateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\adminupdateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\quiz\\answerquizrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\quiz\\answerquizrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\quiz\\answerquizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\quiz\\answerquizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\adminusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\adminusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\mapping\\dtomaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:mapping\\dtomaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\adminresetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\adminresetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\updateuserbodyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\updateuserbodyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\languages\\languageseeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\languages\\languageseeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\entities\\quizsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:entities\\quizsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\quiz\\createquizsessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\quiz\\createquizsessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\quiz\\quizsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\quiz\\quizsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\quiz\\sessionbodyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\quiz\\sessionbodyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\abstractions\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:abstractions\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\admin\\addlanguagebynamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\admin\\addlanguagebynamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\tts\\itranslationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\tts\\itranslationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\tts\\windowsttsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\tts\\windowsttsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\services\\tts\\ittsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:services\\tts\\ittsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\tts\\ttsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\tts\\ttsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\contracts\\tts\\ttsvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:contracts\\tts\\ttsvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|d:\\vocabtrainer project\\vocabtrainer.api\\database\\migrations\\20251208173451_addlanguagefromadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5153A21-BBB6-A3FD-AFA1-5CA36D812AFD}|VocabTrainer.Api.csproj|solutionrelative:database\\migrations\\20251208173451_addlanguagefromadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 872,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\JwtProvider.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:20:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentUserAccessor.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Authentication\\CurrentUserAccessor.cs",
+              "RelativeDocumentMoniker": "Authentication\\CurrentUserAccessor.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Authentication\\CurrentUserAccessor.cs",
+              "RelativeToolTip": "Authentication\\CurrentUserAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:20:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Quiz\\QuizService.cs",
+              "RelativeDocumentMoniker": "Services\\Quiz\\QuizService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Quiz\\QuizService.cs",
+              "RelativeToolTip": "Services\\Quiz\\QuizService.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAkwIYBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:15:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WordsController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "Controllers\\WordsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:22:56.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WordsQuery.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Words\\WordsQuery.cs",
+              "RelativeDocumentMoniker": "Contracts\\Words\\WordsQuery.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Words\\WordsQuery.cs",
+              "RelativeToolTip": "Contracts\\Words\\WordsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:39:11.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:29:00.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLanguagesController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\Admin\\AdminLanguagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\AdminLanguagesController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\Admin\\AdminLanguagesController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\AdminLanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:56:27.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "languages.json",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\languages.json",
+              "RelativeDocumentMoniker": "languages.json",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\languages.json",
+              "RelativeToolTip": "languages.json",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAgwMQBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T17:11:55.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatsService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Stats\\StatsService.cs",
+              "RelativeDocumentMoniker": "Services\\Stats\\StatsService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Stats\\StatsService.cs",
+              "RelativeToolTip": "Services\\Stats\\StatsService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wCEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:25:37.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NextQuizItemResponse.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\NextQuizItemResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Quiz\\NextQuizItemResponse.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\NextQuizItemResponse.cs",
+              "RelativeToolTip": "Contracts\\Quiz\\NextQuizItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:27:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:59:49.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:36:44.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DataBase\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DataBase\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataBase\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:24:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizItemResult.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\QuizItemResult.cs",
+              "RelativeDocumentMoniker": "Entities\\QuizItemResult.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\QuizItemResult.cs",
+              "RelativeToolTip": "Entities\\QuizItemResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:26:25.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordsService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Words\\WordsService.cs",
+              "RelativeDocumentMoniker": "Services\\Words\\WordsService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Words\\WordsService.cs",
+              "RelativeToolTip": "Services\\Words\\WordsService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:19:09.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatsSummaryResponse.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Stats\\StatsSummaryResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Stats\\StatsSummaryResponse.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Stats\\StatsSummaryResponse.cs",
+              "RelativeToolTip": "Contracts\\Stats\\StatsSummaryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:26:34.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Entities\\Word.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\Word.cs",
+              "RelativeToolTip": "Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:47:42.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLanguageStats.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\UserLanguageStats.cs",
+              "RelativeDocumentMoniker": "Entities\\UserLanguageStats.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\UserLanguageStats.cs",
+              "RelativeToolTip": "Entities\\UserLanguageStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:23:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStatsService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Stats\\IStatsService.cs",
+              "RelativeDocumentMoniker": "Services\\Stats\\IStatsService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Stats\\IStatsService.cs",
+              "RelativeToolTip": "Services\\Stats\\IStatsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:29:36.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWordsService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Words\\IWordsService.cs",
+              "RelativeDocumentMoniker": "Services\\Words\\IWordsService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Words\\IWordsService.cs",
+              "RelativeToolTip": "Services\\Words\\IWordsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:21:59.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserLanguageStatsConfigrations.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DataBase\\EntitiesConfigurations\\UserLanguageStatsConfigrations.cs",
+              "RelativeDocumentMoniker": "DataBase\\EntitiesConfigurations\\UserLanguageStatsConfigrations.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DataBase\\EntitiesConfigurations\\UserLanguageStatsConfigrations.cs",
+              "RelativeToolTip": "DataBase\\EntitiesConfigurations\\UserLanguageStatsConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:24:44.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Quiz\\IQuizService.cs",
+              "RelativeDocumentMoniker": "Services\\Quiz\\IQuizService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Quiz\\IQuizService.cs",
+              "RelativeToolTip": "Services\\Quiz\\IQuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:28:36.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GTranslateProvider.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\GTranslateProvider.cs",
+              "RelativeDocumentMoniker": "Services\\Tts\\GTranslateProvider.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\GTranslateProvider.cs",
+              "RelativeToolTip": "Services\\Tts\\GTranslateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:28:56.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LanguagesService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\LanguagesService.cs",
+              "RelativeDocumentMoniker": "Services\\Languages\\LanguagesService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\LanguagesService.cs",
+              "RelativeToolTip": "Services\\Languages\\LanguagesService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:05:22.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminLanguagesService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\AdminLanguagesService.cs",
+              "RelativeDocumentMoniker": "Services\\Admin\\AdminLanguagesService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\AdminLanguagesService.cs",
+              "RelativeToolTip": "Services\\Admin\\AdminLanguagesService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:59:04.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminCodesService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\AdminCodesService.cs",
+              "RelativeDocumentMoniker": "Services\\Admin\\AdminCodesService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\AdminCodesService.cs",
+              "RelativeToolTip": "Services\\Admin\\AdminCodesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:12:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BootstrapController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\BootstrapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BootstrapController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\BootstrapController.cs",
+              "RelativeToolTip": "Controllers\\BootstrapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:09:32.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteRecordingRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Words\\DeleteRecordingRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Words\\DeleteRecordingRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Words\\DeleteRecordingRequest.cs",
+              "RelativeToolTip": "Contracts\\Words\\DeleteRecordingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:39:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RedeemLanguageCodeRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Languages\\RedeemLanguageCodeRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Languages\\RedeemLanguageCodeRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Languages\\RedeemLanguageCodeRequest.cs",
+              "RelativeToolTip": "Contracts\\Languages\\RedeemLanguageCodeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:24:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILanguagesService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\ILanguagesService.cs",
+              "RelativeDocumentMoniker": "Services\\Languages\\ILanguagesService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\ILanguagesService.cs",
+              "RelativeToolTip": "Services\\Languages\\ILanguagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:52:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TranslationController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\TranslationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TranslationController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\TranslationController.cs",
+              "RelativeToolTip": "Controllers\\TranslationController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:24:25.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAdminCodesService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\IAdminCodesService.cs",
+              "RelativeDocumentMoniker": "Services\\Admin\\IAdminCodesService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\IAdminCodesService.cs",
+              "RelativeToolTip": "Services\\Admin\\IAdminCodesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:18:11.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminCodesController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\Admin\\AdminCodesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\AdminCodesController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\Admin\\AdminCodesController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\AdminCodesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:08:34.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAdminLanguagesService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\IAdminLanguagesService.cs",
+              "RelativeDocumentMoniker": "Services\\Admin\\IAdminLanguagesService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\IAdminLanguagesService.cs",
+              "RelativeToolTip": "Services\\Admin\\IAdminLanguagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:58:42.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILanguageCatalog.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\ILanguageCatalog.cs",
+              "RelativeDocumentMoniker": "Services\\Languages\\ILanguageCatalog.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\ILanguageCatalog.cs",
+              "RelativeToolTip": "Services\\Languages\\ILanguageCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:08:38.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:05:11.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LanguageCatalog.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\LanguageCatalog.cs",
+              "RelativeDocumentMoniker": "Services\\Languages\\LanguageCatalog.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Languages\\LanguageCatalog.cs",
+              "RelativeToolTip": "Services\\Languages\\LanguageCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:08:38.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\Admin\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\AdminUsersController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\Admin\\AdminUsersController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\AdminUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:42:30.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LanguageErrors.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Errors\\LanguageErrors.cs",
+              "RelativeDocumentMoniker": "Errors\\LanguageErrors.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Errors\\LanguageErrors.cs",
+              "RelativeToolTip": "Errors\\LanguageErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:53:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAdminUsersService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\IAdminUsersService.cs",
+              "RelativeDocumentMoniker": "Services\\Admin\\IAdminUsersService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\IAdminUsersService.cs",
+              "RelativeToolTip": "Services\\Admin\\IAdminUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:12:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VocabTrainer.Api.csproj",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\VocabTrainer.Api.csproj",
+              "RelativeDocumentMoniker": "VocabTrainer.Api.csproj",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\VocabTrainer.Api.csproj",
+              "RelativeToolTip": "VocabTrainer.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T03:28:15.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteLanguageRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\DeleteLanguageRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\DeleteLanguageRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\DeleteLanguageRequest.cs",
+              "RelativeToolTip": "Contracts\\Admin\\DeleteLanguageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T03:45:30.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T03:27:50.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAALgAAAAAAAAAAAAiwNQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-09T03:29:45.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VocabTrainer.Api",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\VocabTrainer.Api.csproj",
+              "RelativeDocumentMoniker": "VocabTrainer.Api.csproj",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\VocabTrainer.Api.csproj",
+              "RelativeToolTip": "VocabTrainer.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T03:27:46.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Contracts\\Admin\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:10:31.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminUsersResponse.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminUsersResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\AdminUsersResponse.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminUsersResponse.cs",
+              "RelativeToolTip": "Contracts\\Admin\\AdminUsersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:15:52.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AnswerQuizResponse.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\AnswerQuizResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Quiz\\AnswerQuizResponse.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\AnswerQuizResponse.cs",
+              "RelativeToolTip": "Contracts\\Quiz\\AnswerQuizResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:28:07.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AnswerQuizRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\AnswerQuizRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Quiz\\AnswerQuizRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\AnswerQuizRequest.cs",
+              "RelativeToolTip": "Contracts\\Quiz\\AnswerQuizRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:27:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminUsersService.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\AdminUsersService.cs",
+              "RelativeDocumentMoniker": "Services\\Admin\\AdminUsersService.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Admin\\AdminUsersService.cs",
+              "RelativeToolTip": "Services\\Admin\\AdminUsersService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAjwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:16:06.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminUpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminUpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\AdminUpdateUserRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminUpdateUserRequest.cs",
+              "RelativeToolTip": "Contracts\\Admin\\AdminUpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:13:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminUserDto.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminUserDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\AdminUserDto.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminUserDto.cs",
+              "RelativeToolTip": "Contracts\\Admin\\AdminUserDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:08:54.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DtoMaps.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Mapping\\DtoMaps.cs",
+              "RelativeDocumentMoniker": "Mapping\\DtoMaps.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Mapping\\DtoMaps.cs",
+              "RelativeToolTip": "Mapping\\DtoMaps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:09:26.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminResetPasswordRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\AdminResetPasswordRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AdminResetPasswordRequest.cs",
+              "RelativeToolTip": "Contracts\\Admin\\AdminResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:11:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateUserBodyRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\UpdateUserBodyRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\UpdateUserBodyRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\UpdateUserBodyRequest.cs",
+              "RelativeToolTip": "Contracts\\Admin\\UpdateUserBodyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:13:20.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:42:57.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LanguageSeedItem.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Languages\\LanguageSeedItem.cs",
+              "RelativeDocumentMoniker": "Contracts\\Languages\\LanguageSeedItem.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Languages\\LanguageSeedItem.cs",
+              "RelativeToolTip": "Contracts\\Languages\\LanguageSeedItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:09:57.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20251208173451_AddLanguagefromadmin.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DataBase\\Migrations\\20251208173451_AddLanguagefromadmin.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\20251208173451_AddLanguagefromadmin.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\DataBase\\Migrations\\20251208173451_AddLanguagefromadmin.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\20251208173451_AddLanguagefromadmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:34:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuizSession.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\QuizSession.cs",
+              "RelativeDocumentMoniker": "Entities\\QuizSession.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\QuizSession.cs",
+              "RelativeToolTip": "Entities\\QuizSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:26:35.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateQuizSessionRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\CreateQuizSessionRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Quiz\\CreateQuizSessionRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\CreateQuizSessionRequest.cs",
+              "RelativeToolTip": "Contracts\\Quiz\\CreateQuizSessionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:27:20.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "QuizSummaryResponse.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\QuizSummaryResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Quiz\\QuizSummaryResponse.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\QuizSummaryResponse.cs",
+              "RelativeToolTip": "Contracts\\Quiz\\QuizSummaryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:28:20.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SessionBodyRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\SessionBodyRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Quiz\\SessionBodyRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Quiz\\SessionBodyRequest.cs",
+              "RelativeToolTip": "Contracts\\Quiz\\SessionBodyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:31:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Abstractions\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Abstractions\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Abstractions\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Abstractions\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:17:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Entities\\Language.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Entities\\Language.cs",
+              "RelativeToolTip": "Entities\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:15:59.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddLanguageByNameRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AddLanguageByNameRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Admin\\AddLanguageByNameRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Admin\\AddLanguageByNameRequest.cs",
+              "RelativeToolTip": "Contracts\\Admin\\AddLanguageByNameRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:10:22.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ITranslationProvider.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\ITranslationProvider.cs",
+              "RelativeDocumentMoniker": "Services\\Tts\\ITranslationProvider.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\ITranslationProvider.cs",
+              "RelativeToolTip": "Services\\Tts\\ITranslationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:28:25.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TtsRequest.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Tts\\TtsRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Tts\\TtsRequest.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Tts\\TtsRequest.cs",
+              "RelativeToolTip": "Contracts\\Tts\\TtsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:27:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TtsVoiceDto.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Tts\\TtsVoiceDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\Tts\\TtsVoiceDto.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Contracts\\Tts\\TtsVoiceDto.cs",
+              "RelativeToolTip": "Contracts\\Tts\\TtsVoiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:28:09.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WindowsTtsProvider.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\WindowsTtsProvider.cs",
+              "RelativeDocumentMoniker": "Services\\Tts\\WindowsTtsProvider.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\WindowsTtsProvider.cs",
+              "RelativeToolTip": "Services\\Tts\\WindowsTtsProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:30:55.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ITtsProvider.cs",
+              "DocumentMoniker": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\ITtsProvider.cs",
+              "RelativeDocumentMoniker": "Services\\Tts\\ITtsProvider.cs",
+              "ToolTip": "D:\\VocabTrainer Project\\VocabTrainer.Api\\Services\\Tts\\ITtsProvider.cs",
+              "RelativeToolTip": "Services\\Tts\\ITtsProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:31:18.371Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

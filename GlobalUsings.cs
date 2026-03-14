@@ -1,0 +1,17 @@
+﻿global using FluentValidation;
+global using FluentValidation.AspNetCore;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using System.Text;
+global using VocabTrainer.Api.Authentication;
+global using VocabTrainer.Api.DataBase;
+global using VocabTrainer.Api.Services.Account;
+global using VocabTrainer.Api.Services.Admin;
+global using VocabTrainer.Api.Services.Authentication;
+global using VocabTrainer.Api.Services.Background;
+global using VocabTrainer.Api.Services.Languages;
+global using VocabTrainer.Api.Services.Quiz;
+global using VocabTrainer.Api.Services.Stats;
+global using VocabTrainer.Api.Services.Tts;
+global using VocabTrainer.Api.Services.Words;

@@ -1,0 +1,580 @@
+[
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.AccountController",
+    "Method": "Me",
+    "RelativePath": "api/account/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.AccountController",
+    "Method": "Settings",
+    "RelativePath": "api/account/settings",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Users.UpdateSettingsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminCodesController",
+    "Method": "Delete",
+    "RelativePath": "api/admin/codes/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Controllers.Admin.AdminCodesController\u002BDisableCodeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminCodesController",
+    "Method": "Disable",
+    "RelativePath": "api/admin/codes/disable",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Controllers.Admin.AdminCodesController\u002BDisableCodeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminCodesController",
+    "Method": "Invite",
+    "RelativePath": "api/admin/codes/invite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Admin.GenerateInviteCodesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminCodesController",
+    "Method": "Languages",
+    "RelativePath": "api/admin/codes/languages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Admin.GenerateLanguageCodesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminCodesController",
+    "Method": "ListGrouped",
+    "RelativePath": "api/admin/codes/list-grouped",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminLanguagesController",
+    "Method": "AddLanguage",
+    "RelativePath": "api/admin/languages/add-language",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VocabTrainer.Api.Contracts.Admin.AddLanguageByNameRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminLanguagesController",
+    "Method": "Delete",
+    "RelativePath": "api/admin/languages/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Admin.DeleteLanguageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminLanguagesController",
+    "Method": "List",
+    "RelativePath": "api/admin/languages/list",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_",
+        "Type": "VocabTrainer.Api.Contracts.Admin.AdminListLanguagesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminLanguagesController",
+    "Method": "Toggle",
+    "RelativePath": "api/admin/languages/toggle",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Admin.ToggleLanguageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminUsersController",
+    "Method": "Delete",
+    "RelativePath": "api/admin/users/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Admin.DeleteUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminUsersController",
+    "Method": "List",
+    "RelativePath": "api/admin/users/list",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_",
+        "Type": "VocabTrainer.Api.Contracts.Admin.AdminListUsersRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminUsersController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/admin/users/reset-password",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Controllers.Admin.AdminUsersController\u002BResetPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.Admin.AdminUsersController",
+    "Method": "Update",
+    "RelativePath": "api/admin/users/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Admin.UpdateUserBodyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.AuthenticationController",
+    "Method": "Guest",
+    "RelativePath": "api/auth/guest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Auth.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.AuthenticationController",
+    "Method": "Refresh",
+    "RelativePath": "api/auth/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Auth.RefreshRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/auth/register-with-code",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Auth.RegisterWithCodeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.BootstrapController",
+    "Method": "Get",
+    "RelativePath": "api/bootstrap/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.LanguagesController",
+    "Method": "Allowed",
+    "RelativePath": "api/languages/allowed",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_",
+        "Type": "VocabTrainer.Api.Contracts.Languages.AllowedLanguagesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.LanguagesController",
+    "Method": "Redeem",
+    "RelativePath": "api/languages/redeem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Languages.RedeemLanguageCodeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.QuizController",
+    "Method": "Create",
+    "RelativePath": "api/quiz/sessions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Quiz.CreateQuizSessionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.QuizController",
+    "Method": "Answer",
+    "RelativePath": "api/quiz/sessions/answer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Controllers.QuizController\u002BAnswerQuizBodyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.QuizController",
+    "Method": "Close",
+    "RelativePath": "api/quiz/sessions/close",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Quiz.SessionBodyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.QuizController",
+    "Method": "Next",
+    "RelativePath": "api/quiz/sessions/next",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Controllers.QuizController\u002BNextQuizRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.QuizController",
+    "Method": "Summary",
+    "RelativePath": "api/quiz/sessions/summary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Quiz.SessionBodyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.StatsController",
+    "Method": "Summary",
+    "RelativePath": "api/stats/summary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Stats.StatsSummaryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.TranslationController",
+    "Method": "Translate",
+    "RelativePath": "api/translate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Tts.TranslateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.TranslationController",
+    "Method": "Speak",
+    "RelativePath": "api/translate/speak",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Tts.TtsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "Create",
+    "RelativePath": "api/words/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Words.CreateWordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "Delete",
+    "RelativePath": "api/words/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Words.DeleteWordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "DeleteAll",
+    "RelativePath": "api/words/delete-all",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "List",
+    "RelativePath": "api/words/list",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "q",
+        "Type": "VocabTrainer.Api.Contracts.Words.WordsQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "DeleteRecording",
+    "RelativePath": "api/words/recording/delete/{wordId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "wordId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "GetRecording",
+    "RelativePath": "api/words/recording/get",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Words.GetRecordingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "SaveRecording",
+    "RelativePath": "api/words/recording/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Words.SaveRecordingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VocabTrainer.Api.Controllers.WordsController",
+    "Method": "Update",
+    "RelativePath": "api/words/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "VocabTrainer.Api.Contracts.Words.UpdateWordBodyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

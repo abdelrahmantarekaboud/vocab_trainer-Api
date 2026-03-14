@@ -1,0 +1,467 @@
+﻿[
+  {
+    "nameEn": "English",
+    "locale": "en",
+    "aliases": [ "English (US)", "English (UK)" ]
+  },
+  {
+    "nameEn": "Arabic",
+    "locale": "ar",
+    "aliases": [ "Modern Standard Arabic" ]
+  },
+  {
+    "nameEn": "French",
+    "locale": "fr",
+    "aliases": []
+  },
+  {
+    "nameEn": "German",
+    "locale": "de",
+    "aliases": []
+  },
+  {
+    "nameEn": "Spanish",
+    "locale": "es",
+    "aliases": [ "Español" ]
+  },
+  {
+    "nameEn": "Italian",
+    "locale": "it",
+    "aliases": []
+  },
+  {
+    "nameEn": "Portuguese",
+    "locale": "pt",
+    "aliases": [ "Portuguese (Portugal)" ]
+  },
+  {
+    "nameEn": "Portuguese (Brazil)",
+    "locale": "pt-BR",
+    "aliases": [ "Brazilian Portuguese" ]
+  },
+  {
+    "nameEn": "Chinese (Simplified)",
+    "locale": "zh-CN",
+    "aliases": [ "Simplified Chinese", "Chinese Simplified" ]
+  },
+  {
+    "nameEn": "Chinese (Traditional)",
+    "locale": "zh-TW",
+    "aliases": [ "Traditional Chinese", "Chinese Traditional" ]
+  },
+  {
+    "nameEn": "Russian",
+    "locale": "ru",
+    "aliases": []
+  },
+  {
+    "nameEn": "Turkish",
+    "locale": "tr",
+    "aliases": []
+  },
+  {
+    "nameEn": "Hindi",
+    "locale": "hi",
+    "aliases": []
+  },
+  {
+    "nameEn": "Japanese",
+    "locale": "ja",
+    "aliases": []
+  },
+  {
+    "nameEn": "Korean",
+    "locale": "ko",
+    "aliases": []
+  },
+  {
+    "nameEn": "Bengali",
+    "locale": "bn",
+    "aliases": [ "Bangla" ]
+  },
+  {
+    "nameEn": "Urdu",
+    "locale": "ur",
+    "aliases": []
+  },
+  {
+    "nameEn": "Persian",
+    "locale": "fa",
+    "aliases": [ "Farsi" ]
+  },
+  {
+    "nameEn": "Hebrew",
+    "locale": "iw",
+    "aliases": [ "Hebrew (Modern)" ]
+  },
+  {
+    "nameEn": "Myanmar (Burmese)",
+    "locale": "my",
+    "aliases": [ "Burmese", "Myanmar" ]
+  },
+  {
+    "nameEn": "Filipino",
+    "locale": "tl",
+    "aliases": [ "Tagalog" ]
+  },
+  {
+    "nameEn": "Ukrainian",
+    "locale": "uk",
+    "aliases": []
+  },
+  {
+    "nameEn": "Vietnamese",
+    "locale": "vi",
+    "aliases": []
+  },
+  {
+    "nameEn": "Thai",
+    "locale": "th",
+    "aliases": []
+  },
+  {
+    "nameEn": "Indonesian",
+    "locale": "id",
+    "aliases": [ "Bahasa Indonesia" ]
+  },
+  {
+    "nameEn": "Malay",
+    "locale": "ms",
+    "aliases": [ "Bahasa Melayu" ]
+  },
+  {
+    "nameEn": "Swahili",
+    "locale": "sw",
+    "aliases": []
+  },
+  {
+    "nameEn": "Dutch",
+    "locale": "nl",
+    "aliases": []
+  },
+  {
+    "nameEn": "Greek",
+    "locale": "el",
+    "aliases": []
+  },
+  {
+    "nameEn": "Polish",
+    "locale": "pl",
+    "aliases": []
+  },
+  {
+    "nameEn": "Romanian",
+    "locale": "ro",
+    "aliases": []
+  },
+  {
+    "nameEn": "Hungarian",
+    "locale": "hu",
+    "aliases": []
+  },
+  {
+    "nameEn": "Czech",
+    "locale": "cs",
+    "aliases": []
+  },
+  {
+    "nameEn": "Danish",
+    "locale": "da",
+    "aliases": []
+  },
+  {
+    "nameEn": "Finnish",
+    "locale": "fi",
+    "aliases": []
+  },
+  {
+    "nameEn": "Swedish",
+    "locale": "sv",
+    "aliases": []
+  },
+  {
+    "nameEn": "Norwegian",
+    "locale": "no",
+    "aliases": [ "Norwegian Bokmål" ]
+  },
+  {
+    "nameEn": "Icelandic",
+    "locale": "is",
+    "aliases": []
+  },
+  {
+    "nameEn": "Irish",
+    "locale": "ga",
+    "aliases": [ "Irish Gaelic" ]
+  },
+  {
+    "nameEn": "Scottish Gaelic",
+    "locale": "gd",
+    "aliases": [ "Gaelic (Scotland)" ]
+  },
+  {
+    "nameEn": "Welsh",
+    "locale": "cy",
+    "aliases": []
+  },
+  {
+    "nameEn": "Afrikaans",
+    "locale": "af",
+    "aliases": []
+  },
+  {
+    "nameEn": "Albanian",
+    "locale": "sq",
+    "aliases": []
+  },
+  {
+    "nameEn": "Amharic",
+    "locale": "am",
+    "aliases": []
+  },
+  {
+    "nameEn": "Armenian",
+    "locale": "hy",
+    "aliases": []
+  },
+  {
+    "nameEn": "Azerbaijani",
+    "locale": "az",
+    "aliases": [ "Azeri" ]
+  },
+  {
+    "nameEn": "Basque",
+    "locale": "eu",
+    "aliases": []
+  },
+  {
+    "nameEn": "Belarusian",
+    "locale": "be",
+    "aliases": []
+  },
+  {
+    "nameEn": "Bosnian",
+    "locale": "bs",
+    "aliases": []
+  },
+  {
+    "nameEn": "Bulgarian",
+    "locale": "bg",
+    "aliases": []
+  },
+  {
+    "nameEn": "Catalan",
+    "locale": "ca",
+    "aliases": []
+  },
+  {
+    "nameEn": "Croatian",
+    "locale": "hr",
+    "aliases": []
+  },
+  {
+    "nameEn": "Estonian",
+    "locale": "et",
+    "aliases": []
+  },
+  {
+    "nameEn": "Georgian",
+    "locale": "ka",
+    "aliases": []
+  },
+  {
+    "nameEn": "Gujarati",
+    "locale": "gu",
+    "aliases": []
+  },
+  {
+    "nameEn": "Haitian Creole",
+    "locale": "ht",
+    "aliases": [ "Creole (Haiti)" ]
+  },
+  {
+    "nameEn": "Hausa",
+    "locale": "ha",
+    "aliases": []
+  },
+  {
+    "nameEn": "Igbo",
+    "locale": "ig",
+    "aliases": []
+  },
+  {
+    "nameEn": "Javanese",
+    "locale": "jw",
+    "aliases": []
+  },
+  {
+    "nameEn": "Kannada",
+    "locale": "kn",
+    "aliases": []
+  },
+  {
+    "nameEn": "Kazakh",
+    "locale": "kk",
+    "aliases": []
+  },
+  {
+    "nameEn": "Khmer",
+    "locale": "km",
+    "aliases": [ "Cambodian" ]
+  },
+  {
+    "nameEn": "Kurdish (Kurmanji)",
+    "locale": "ku",
+    "aliases": [ "Kurmanji", "Kurdish" ]
+  },
+  {
+    "nameEn": "Kyrgyz",
+    "locale": "ky",
+    "aliases": []
+  },
+  {
+    "nameEn": "Lao",
+    "locale": "lo",
+    "aliases": []
+  },
+  {
+    "nameEn": "Latin",
+    "locale": "la",
+    "aliases": []
+  },
+  {
+    "nameEn": "Latvian",
+    "locale": "lv",
+    "aliases": []
+  },
+  {
+    "nameEn": "Lithuanian",
+    "locale": "lt",
+    "aliases": []
+  },
+  {
+    "nameEn": "Luxembourgish",
+    "locale": "lb",
+    "aliases": []
+  },
+  {
+    "nameEn": "Macedonian",
+    "locale": "mk",
+    "aliases": []
+  },
+  {
+    "nameEn": "Malagasy",
+    "locale": "mg",
+    "aliases": []
+  },
+  {
+    "nameEn": "Malayalam",
+    "locale": "ml",
+    "aliases": []
+  },
+  {
+    "nameEn": "Maltese",
+    "locale": "mt",
+    "aliases": []
+  },
+  {
+    "nameEn": "Maori",
+    "locale": "mi",
+    "aliases": []
+  },
+  {
+    "nameEn": "Marathi",
+    "locale": "mr",
+    "aliases": []
+  },
+  {
+    "nameEn": "Mongolian",
+    "locale": "mn",
+    "aliases": []
+  },
+  {
+    "nameEn": "Nepali",
+    "locale": "ne",
+    "aliases": []
+  },
+  {
+    "nameEn": "Pashto",
+    "locale": "ps",
+    "aliases": []
+  },
+  {
+    "nameEn": "Punjabi",
+    "locale": "pa",
+    "aliases": []
+  },
+  {
+    "nameEn": "Serbian",
+    "locale": "sr",
+    "aliases": []
+  },
+  {
+    "nameEn": "Sinhala",
+    "locale": "si",
+    "aliases": []
+  },
+  {
+    "nameEn": "Slovak",
+    "locale": "sk",
+    "aliases": []
+  },
+  {
+    "nameEn": "Slovenian",
+    "locale": "sl",
+    "aliases": []
+  },
+  {
+    "nameEn": "Somali",
+    "locale": "so",
+    "aliases": []
+  },
+  {
+    "nameEn": "Sundanese",
+    "locale": "su",
+    "aliases": []
+  },
+  {
+    "nameEn": "Tajik",
+    "locale": "tg",
+    "aliases": []
+  },
+  {
+    "nameEn": "Tamil",
+    "locale": "ta",
+    "aliases": []
+  },
+  {
+    "nameEn": "Telugu",
+    "locale": "te",
+    "aliases": []
+  },
+  {
+    "nameEn": "Uzbek",
+    "locale": "uz",
+    "aliases": []
+  },
+  {
+    "nameEn": "Xhosa",
+    "locale": "xh",
+    "aliases": []
+  },
+  {
+    "nameEn": "Yiddish",
+    "locale": "yi",
+    "aliases": []
+  },
+  {
+    "nameEn": "Yoruba",
+    "locale": "yo",
+    "aliases": []
+  },
+  {
+    "nameEn": "Zulu",
+    "locale": "zu",
+    "aliases": []
+  }
+]
